@@ -1,0 +1,7 @@
+.inputName {
+  text-align: center;
+}
+
+input {
+  width: -webkit-fill-available;
+}

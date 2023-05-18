@@ -1,0 +1,12 @@
+th {
+  font-weight: normal;
+  color: wheat;
+}
+
+.thHeader {
+  font-weight: bold;
+}
+
+.actionButtons {
+  margin-inline: 0.5em;
+}
